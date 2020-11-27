@@ -1,4 +1,4 @@
-# dotfile
+# dotfiles
 暂存一些软件配置
 
 - https://gitlab.com/dwt1/dotfiles
